@@ -1,6 +1,3 @@
-![Screenshot 2024-10-03 102251](https://github.com/user-attachments/assets/937bab42-9cf7-46a6-9bb1-ccdf54cda332)![Screenshot 2024-10-03 101936](https://github.com/user-attachments/assets/b99076d0-75ee-41ae-b422-4cf45e1d306d)# IMAGE-TRANSFORMATIONS
-
-
 ## Aim
 To perform image transformation such as Translation, Scaling, Shearing, Reflection, Rotation and Cropping using OpenCV and Python.
 
